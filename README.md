@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Sujal Soni<br>A passionate 🤖 AI/ML coder and 💻 full-stack Web Developer pursuing 🎓 B.Tech in Computer Science and Applied Mathematics (CSAM) from 🏫 IIIT Delhi.<br>I am currently working on a 🌐 full-stack website for 🤝 volunteering.
+# 💫 Hi 👋, I'm Sujal Soni:
+<br>A passionate 🤖 AI/ML coder and 💻 full-stack Web Developer pursuing 🎓 B.Tech in Computer Science and Applied Mathematics (CSAM) from 🏫 IIIT Delhi.<br>I am currently working on a 🌐 full-stack website for 🤝 volunteering.
 
 
 ## 🌐 Socials:
