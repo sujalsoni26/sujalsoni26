@@ -15,8 +15,9 @@ A passionate 🤖 AI/ML coder and 💻 full-stack Web Developer pursuing 🎓 B.
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sujalsoni26&theme=transparent&no-frame=true&no-bg=true&margin-w=4) -->
 
-### ✍️ Inspiring Dev Quote
+### ✍️ Inspiring Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sujalsoni26&icon=0&color=1)](https://visitcount.itsvg.in)
