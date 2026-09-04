@@ -20,7 +20,6 @@ A passionate 🤖 AI/ML coder and 💻 full-stack Web Developer pursuing 🎓 B.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsoni26&theme=transparent&hideue&include_all_commits=true&count_private=false&layout=compact
 </p>
-`
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sujalsoni26&theme=transparent&no-frame=true&no-bg=true&margin-w=4) -->
